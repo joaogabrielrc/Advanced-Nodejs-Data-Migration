@@ -1,0 +1,10 @@
+{
+  "name": "advanced-nodejs-streams",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "João Gabriel Rozete Cardoso <joaogabrielrcardoso@gmail.com>",
+  "dependencies": {
+    "pg": "^8.14.1",
+    "pg-copy-streams": "^6.0.6"
+  }
+}

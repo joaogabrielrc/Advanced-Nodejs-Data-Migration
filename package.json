@@ -4,7 +4,9 @@
   "type": "module",
   "author": "João Gabriel Rozete Cardoso <joaogabrielrcardoso@gmail.com>",
   "dependencies": {
+    "express": "^5.1.0",
     "pg": "^8.14.1",
-    "pg-copy-streams": "^6.0.6"
+    "pg-copy-streams": "^6.0.6",
+    "pg-cursor": "^2.13.1"
   }
 }
